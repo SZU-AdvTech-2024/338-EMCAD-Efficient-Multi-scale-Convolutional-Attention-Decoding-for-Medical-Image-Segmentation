@@ -1,0 +1,7 @@
+@inproceedings{REPO338,
+    author = "Rahman, Md Mostafijur and Munir, Mustafa and Marculescu, Radu",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "11769--11779",
+    title = "{Emcad: Efficient multi-scale convolutional attention decoding for medical image segmentation}",
+    year = "2024"
+}
