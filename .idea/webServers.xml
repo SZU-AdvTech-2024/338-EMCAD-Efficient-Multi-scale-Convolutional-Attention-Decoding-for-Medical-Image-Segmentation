@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="967e2c8d-54ca-4c6b-a0b5-0fa83ca8387f" name="EMCAD">
+        <fileTransfer rootFolder="/data1/wangm" accessType="SFTP" host="172.31.226.234" port="22" sshConfigId="b3b7f347-83ee-4c81-960d-a340b3ca76ad" sshConfig="wangm@172.31.226.234:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
